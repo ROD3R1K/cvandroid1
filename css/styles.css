@@ -1,0 +1,95 @@
+body{
+    background-color: #A1ADFF;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Silkscreen', cursive; 
+}
+h1{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    font-family: 'Silkscreen', cursive;
+    text-align: center;
+    font-size: 90px;
+    position: relative;
+}
+
+}
+.programmer{
+
+    font-family: 'Silkscreen', cursive;
+    
+}
+
+.topcontainer{
+    background-color: #A1ADFF;
+    position: static;
+    padding: 100px;
+}
+.nube1{
+    position: absolute;
+    width: 100%;
+    top: 10px;
+    left: 0px;
+    right: 0px;
+    bottom: 0%;
+
+}
+.nube2{
+    position: absolute;
+    width: 100%;
+    top: 700px;
+    left: 0px;
+    right: 0px;
+    bottom: 25%;
+
+}
+.nube4{
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    bottom: 10px;
+    top: 1500px;
+
+
+}
+
+.midcontainer{
+    background-color: #dfdfdf;
+    border-radius: 100px;
+    position: relative;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
+}
+.bottomcontainer{
+    background-color: #F5EFE6;
+    position: relative;
+}
+.me{
+    border-radius: 100%;
+    width: 150px;
+    margin: 30px 0 0px;
+    
+}
+.st1{
+    width: 50px;
+}
+.st2{
+    width: 50px;
+}
+.st3{
+     width: 50px; 
+     position: relative;
+     top: 6px;
+}
+hr{
+    
+}
+.x1{
+    position: absolute;
+}
